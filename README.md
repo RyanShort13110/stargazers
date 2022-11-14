@@ -1,19 +1,5 @@
 <div id="top"></div>
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -22,7 +8,6 @@
   </a>
 
   <h3 align="center">L.A. Star Gazers Society</h3>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -51,15 +36,12 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 
 This is a simple app that makes use of the NASA APOD API to import pictures and videos. Provides a quick way for fellow members of the community to keep in touch.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -72,7 +54,6 @@ Nothing too wild for this project.
 * HTML
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
