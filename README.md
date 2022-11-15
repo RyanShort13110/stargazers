@@ -46,8 +46,6 @@ This is a simple app that makes use of the NASA APOD API to import pictures and 
 
 ### Built With
 
-Nothing too wild for this project.
-
 * JavaScript
 * SCSS
 * CSS
