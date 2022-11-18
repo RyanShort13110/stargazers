@@ -130,7 +130,6 @@ Project Link: [L.A. Star Gazers Society](https://lastargazers.netlify.app/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -146,3 +145,4 @@ Project Link: [L.A. Star Gazers Society](https://lastargazers.netlify.app/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
