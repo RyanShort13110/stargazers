@@ -10,6 +10,7 @@
   <h3 align="center">L.A. Star Gazers Society</h3>
 
 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
