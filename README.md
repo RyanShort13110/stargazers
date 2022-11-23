@@ -68,7 +68,7 @@ Ensure that you have obtained an API key from NASA. You may do so here [NASA API
 
 
 1. Get a free API Key at [NASA API](https://api.nasa.gov/)
-2. Fork & clone the repo
+2. Clone the repo
    ```sh
    git clone https://github.com/RyanShort13110/stargazers
    ```
