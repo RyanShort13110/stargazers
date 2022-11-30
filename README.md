@@ -6,7 +6,7 @@
   
   
   <h3 align="center">L.A. Star Gazers Society</h3>
-  <img align="right" src="https://github.com/RyanShort13110/stargazers/blob/main/images/starGazers.gif">
+  <img height="400" width="250" align="right" src="https://github.com/RyanShort13110/stargazers/blob/main/images/starGazers.gif">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fb6f3fd0-b31f-4ed3-9b79-4ec5c2d74dc4/deploy-status)](https://app.netlify.com/sites/lastargazers/deploys)
 
