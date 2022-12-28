@@ -1,13 +1,17 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://lastargazers.netlify.app/#">
-    <img src="https://ryan-short.netlify.app/images/stargazers.PNG" alt="Logo" width="400" height="400">
-  </a>
 
-  <h3 align="center">L.A. Star Gazers Society</h3>
+<br />
+
+
+<h3 align="center">L.A. Star Gazers Society</h3>
+
+<div align="center">
+    <img src="https://github.com/RyanShort13110/stargazers/blob/main/images/starGazers.gif" alt="Logo" width="300" height="450">
+    </a>
+</div>
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fb6f3fd0-b31f-4ed3-9b79-4ec5c2d74dc4/deploy-status)](https://app.netlify.com/sites/lastargazers/deploys)
 
@@ -42,8 +46,6 @@
 
 This is a simple app that makes use of the NASA APOD API to import pictures and videos. Provides a quick way for fellow members of the community to keep in touch.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -51,8 +53,6 @@ This is a simple app that makes use of the NASA APOD API to import pictures and 
 * SCSS
 * CSS
 * HTML
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
