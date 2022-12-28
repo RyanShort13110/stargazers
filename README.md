@@ -8,7 +8,7 @@
 <h3 align="center">L.A. Star Gazers Society</h3>
 
 <div align="center">
-    <img src="https://github.com/RyanShort13110/stargazers/blob/main/images/starGazers.gif" alt="Logo" width="300" height="450">
+    <img src="https://github.com/RyanShort13110/stargazers/blob/main/images/la-star-gazers-animated.gif" alt="Logo" width="100%">
     </a>
 </div>
 
